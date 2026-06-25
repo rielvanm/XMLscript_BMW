@@ -3,3 +3,7 @@ Archief/
 Voorbeelddata/
 release/
 *.zip
+build/
+dist/
+*.zip/
+*__pycache__
